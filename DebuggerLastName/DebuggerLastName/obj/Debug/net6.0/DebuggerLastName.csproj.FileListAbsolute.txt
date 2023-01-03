@@ -1,0 +1,15 @@
+/Users/ajlj/Projects/DebuggerLastName/DebuggerLastName/obj/Debug/net6.0/DebuggerLastName.csproj.AssemblyReference.cache
+/Users/ajlj/Projects/DebuggerLastName/DebuggerLastName/obj/Debug/net6.0/DebuggerLastName.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajlj/Projects/DebuggerLastName/DebuggerLastName/obj/Debug/net6.0/DebuggerLastName.AssemblyInfoInputs.cache
+/Users/ajlj/Projects/DebuggerLastName/DebuggerLastName/obj/Debug/net6.0/DebuggerLastName.AssemblyInfo.cs
+/Users/ajlj/Projects/DebuggerLastName/DebuggerLastName/obj/Debug/net6.0/DebuggerLastName.csproj.CoreCompileInputs.cache
+/Users/ajlj/Projects/DebuggerLastName/DebuggerLastName/bin/Debug/net6.0/DebuggerLastName
+/Users/ajlj/Projects/DebuggerLastName/DebuggerLastName/bin/Debug/net6.0/DebuggerLastName.deps.json
+/Users/ajlj/Projects/DebuggerLastName/DebuggerLastName/bin/Debug/net6.0/DebuggerLastName.runtimeconfig.json
+/Users/ajlj/Projects/DebuggerLastName/DebuggerLastName/bin/Debug/net6.0/DebuggerLastName.dll
+/Users/ajlj/Projects/DebuggerLastName/DebuggerLastName/bin/Debug/net6.0/DebuggerLastName.pdb
+/Users/ajlj/Projects/DebuggerLastName/DebuggerLastName/obj/Debug/net6.0/DebuggerLastName.dll
+/Users/ajlj/Projects/DebuggerLastName/DebuggerLastName/obj/Debug/net6.0/refint/DebuggerLastName.dll
+/Users/ajlj/Projects/DebuggerLastName/DebuggerLastName/obj/Debug/net6.0/DebuggerLastName.pdb
+/Users/ajlj/Projects/DebuggerLastName/DebuggerLastName/obj/Debug/net6.0/DebuggerLastName.genruntimeconfig.cache
+/Users/ajlj/Projects/DebuggerLastName/DebuggerLastName/obj/Debug/net6.0/ref/DebuggerLastName.dll
