@@ -1,0 +1,15 @@
+/Users/ajlj/Projects/House.cs/House.cs/obj/Debug/net6.0/House.cs.csproj.AssemblyReference.cache
+/Users/ajlj/Projects/House.cs/House.cs/obj/Debug/net6.0/House.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajlj/Projects/House.cs/House.cs/obj/Debug/net6.0/House.cs.AssemblyInfoInputs.cache
+/Users/ajlj/Projects/House.cs/House.cs/obj/Debug/net6.0/House.cs.AssemblyInfo.cs
+/Users/ajlj/Projects/House.cs/House.cs/obj/Debug/net6.0/House.cs.csproj.CoreCompileInputs.cache
+/Users/ajlj/Projects/House.cs/House.cs/bin/Debug/net6.0/House.cs
+/Users/ajlj/Projects/House.cs/House.cs/bin/Debug/net6.0/House.cs.deps.json
+/Users/ajlj/Projects/House.cs/House.cs/bin/Debug/net6.0/House.cs.runtimeconfig.json
+/Users/ajlj/Projects/House.cs/House.cs/bin/Debug/net6.0/House.cs.dll
+/Users/ajlj/Projects/House.cs/House.cs/bin/Debug/net6.0/House.cs.pdb
+/Users/ajlj/Projects/House.cs/House.cs/obj/Debug/net6.0/House.cs.dll
+/Users/ajlj/Projects/House.cs/House.cs/obj/Debug/net6.0/refint/House.cs.dll
+/Users/ajlj/Projects/House.cs/House.cs/obj/Debug/net6.0/House.cs.pdb
+/Users/ajlj/Projects/House.cs/House.cs/obj/Debug/net6.0/House.cs.genruntimeconfig.cache
+/Users/ajlj/Projects/House.cs/House.cs/obj/Debug/net6.0/ref/House.cs.dll
