@@ -1,0 +1,15 @@
+/Users/ajlj/Projects/MethodBasics/MethodBasics/bin/Release/net6.0/MethodBasics
+/Users/ajlj/Projects/MethodBasics/MethodBasics/bin/Release/net6.0/MethodBasics.deps.json
+/Users/ajlj/Projects/MethodBasics/MethodBasics/bin/Release/net6.0/MethodBasics.runtimeconfig.json
+/Users/ajlj/Projects/MethodBasics/MethodBasics/bin/Release/net6.0/MethodBasics.dll
+/Users/ajlj/Projects/MethodBasics/MethodBasics/bin/Release/net6.0/MethodBasics.pdb
+/Users/ajlj/Projects/MethodBasics/MethodBasics/obj/Release/net6.0/MethodBasics.csproj.AssemblyReference.cache
+/Users/ajlj/Projects/MethodBasics/MethodBasics/obj/Release/net6.0/MethodBasics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajlj/Projects/MethodBasics/MethodBasics/obj/Release/net6.0/MethodBasics.AssemblyInfoInputs.cache
+/Users/ajlj/Projects/MethodBasics/MethodBasics/obj/Release/net6.0/MethodBasics.AssemblyInfo.cs
+/Users/ajlj/Projects/MethodBasics/MethodBasics/obj/Release/net6.0/MethodBasics.csproj.CoreCompileInputs.cache
+/Users/ajlj/Projects/MethodBasics/MethodBasics/obj/Release/net6.0/MethodBasics.dll
+/Users/ajlj/Projects/MethodBasics/MethodBasics/obj/Release/net6.0/refint/MethodBasics.dll
+/Users/ajlj/Projects/MethodBasics/MethodBasics/obj/Release/net6.0/MethodBasics.pdb
+/Users/ajlj/Projects/MethodBasics/MethodBasics/obj/Release/net6.0/MethodBasics.genruntimeconfig.cache
+/Users/ajlj/Projects/MethodBasics/MethodBasics/obj/Release/net6.0/ref/MethodBasics.dll

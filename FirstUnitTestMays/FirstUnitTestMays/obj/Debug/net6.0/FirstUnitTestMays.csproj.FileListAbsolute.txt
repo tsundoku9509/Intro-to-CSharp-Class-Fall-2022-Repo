@@ -1,0 +1,15 @@
+/Users/ajlj/Projects/FirstUnitTestMays/FirstUnitTestMays/obj/Debug/net6.0/FirstUnitTestMays.csproj.AssemblyReference.cache
+/Users/ajlj/Projects/FirstUnitTestMays/FirstUnitTestMays/obj/Debug/net6.0/FirstUnitTestMays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajlj/Projects/FirstUnitTestMays/FirstUnitTestMays/obj/Debug/net6.0/FirstUnitTestMays.AssemblyInfoInputs.cache
+/Users/ajlj/Projects/FirstUnitTestMays/FirstUnitTestMays/obj/Debug/net6.0/FirstUnitTestMays.AssemblyInfo.cs
+/Users/ajlj/Projects/FirstUnitTestMays/FirstUnitTestMays/obj/Debug/net6.0/FirstUnitTestMays.csproj.CoreCompileInputs.cache
+/Users/ajlj/Projects/FirstUnitTestMays/FirstUnitTestMays/bin/Debug/net6.0/FirstUnitTestMays
+/Users/ajlj/Projects/FirstUnitTestMays/FirstUnitTestMays/bin/Debug/net6.0/FirstUnitTestMays.deps.json
+/Users/ajlj/Projects/FirstUnitTestMays/FirstUnitTestMays/bin/Debug/net6.0/FirstUnitTestMays.runtimeconfig.json
+/Users/ajlj/Projects/FirstUnitTestMays/FirstUnitTestMays/bin/Debug/net6.0/FirstUnitTestMays.dll
+/Users/ajlj/Projects/FirstUnitTestMays/FirstUnitTestMays/bin/Debug/net6.0/FirstUnitTestMays.pdb
+/Users/ajlj/Projects/FirstUnitTestMays/FirstUnitTestMays/obj/Debug/net6.0/FirstUnitTestMays.dll
+/Users/ajlj/Projects/FirstUnitTestMays/FirstUnitTestMays/obj/Debug/net6.0/refint/FirstUnitTestMays.dll
+/Users/ajlj/Projects/FirstUnitTestMays/FirstUnitTestMays/obj/Debug/net6.0/FirstUnitTestMays.pdb
+/Users/ajlj/Projects/FirstUnitTestMays/FirstUnitTestMays/obj/Debug/net6.0/FirstUnitTestMays.genruntimeconfig.cache
+/Users/ajlj/Projects/FirstUnitTestMays/FirstUnitTestMays/obj/Debug/net6.0/ref/FirstUnitTestMays.dll
