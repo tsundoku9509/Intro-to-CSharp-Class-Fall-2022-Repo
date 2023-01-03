@@ -1,0 +1,15 @@
+/Users/ajlj/Projects/Module4/decideMeal/bin/Debug/net6.0/Module4
+/Users/ajlj/Projects/Module4/decideMeal/bin/Debug/net6.0/Module4.deps.json
+/Users/ajlj/Projects/Module4/decideMeal/bin/Debug/net6.0/Module4.runtimeconfig.json
+/Users/ajlj/Projects/Module4/decideMeal/bin/Debug/net6.0/Module4.dll
+/Users/ajlj/Projects/Module4/decideMeal/bin/Debug/net6.0/Module4.pdb
+/Users/ajlj/Projects/Module4/decideMeal/obj/Debug/net6.0/Module4.csproj.AssemblyReference.cache
+/Users/ajlj/Projects/Module4/decideMeal/obj/Debug/net6.0/Module4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajlj/Projects/Module4/decideMeal/obj/Debug/net6.0/Module4.AssemblyInfoInputs.cache
+/Users/ajlj/Projects/Module4/decideMeal/obj/Debug/net6.0/Module4.AssemblyInfo.cs
+/Users/ajlj/Projects/Module4/decideMeal/obj/Debug/net6.0/Module4.csproj.CoreCompileInputs.cache
+/Users/ajlj/Projects/Module4/decideMeal/obj/Debug/net6.0/Module4.dll
+/Users/ajlj/Projects/Module4/decideMeal/obj/Debug/net6.0/refint/Module4.dll
+/Users/ajlj/Projects/Module4/decideMeal/obj/Debug/net6.0/Module4.pdb
+/Users/ajlj/Projects/Module4/decideMeal/obj/Debug/net6.0/Module4.genruntimeconfig.cache
+/Users/ajlj/Projects/Module4/decideMeal/obj/Debug/net6.0/ref/Module4.dll

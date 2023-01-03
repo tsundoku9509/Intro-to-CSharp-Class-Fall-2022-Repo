@@ -1,0 +1,15 @@
+/Users/ajlj/Projects/MethodOverload/MethodOverload/bin/Debug/net6.0/MethodOverload
+/Users/ajlj/Projects/MethodOverload/MethodOverload/bin/Debug/net6.0/MethodOverload.deps.json
+/Users/ajlj/Projects/MethodOverload/MethodOverload/bin/Debug/net6.0/MethodOverload.runtimeconfig.json
+/Users/ajlj/Projects/MethodOverload/MethodOverload/bin/Debug/net6.0/MethodOverload.dll
+/Users/ajlj/Projects/MethodOverload/MethodOverload/bin/Debug/net6.0/MethodOverload.pdb
+/Users/ajlj/Projects/MethodOverload/MethodOverload/obj/Debug/net6.0/MethodOverload.csproj.AssemblyReference.cache
+/Users/ajlj/Projects/MethodOverload/MethodOverload/obj/Debug/net6.0/MethodOverload.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajlj/Projects/MethodOverload/MethodOverload/obj/Debug/net6.0/MethodOverload.AssemblyInfoInputs.cache
+/Users/ajlj/Projects/MethodOverload/MethodOverload/obj/Debug/net6.0/MethodOverload.AssemblyInfo.cs
+/Users/ajlj/Projects/MethodOverload/MethodOverload/obj/Debug/net6.0/MethodOverload.csproj.CoreCompileInputs.cache
+/Users/ajlj/Projects/MethodOverload/MethodOverload/obj/Debug/net6.0/MethodOverload.dll
+/Users/ajlj/Projects/MethodOverload/MethodOverload/obj/Debug/net6.0/refint/MethodOverload.dll
+/Users/ajlj/Projects/MethodOverload/MethodOverload/obj/Debug/net6.0/MethodOverload.pdb
+/Users/ajlj/Projects/MethodOverload/MethodOverload/obj/Debug/net6.0/MethodOverload.genruntimeconfig.cache
+/Users/ajlj/Projects/MethodOverload/MethodOverload/obj/Debug/net6.0/ref/MethodOverload.dll

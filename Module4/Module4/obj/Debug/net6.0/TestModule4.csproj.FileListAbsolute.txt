@@ -1,0 +1,6 @@
+/Users/ajlj/Projects/Module4/Module4/bin/Debug/net6.0/CoverletSourceRootsMapping
+/Users/ajlj/Projects/Module4/Module4/obj/Debug/net6.0/TestModule4.csproj.AssemblyReference.cache
+/Users/ajlj/Projects/Module4/Module4/obj/Debug/net6.0/TestModule4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajlj/Projects/Module4/Module4/obj/Debug/net6.0/TestModule4.AssemblyInfoInputs.cache
+/Users/ajlj/Projects/Module4/Module4/obj/Debug/net6.0/TestModule4.AssemblyInfo.cs
+/Users/ajlj/Projects/Module4/Module4/obj/Debug/net6.0/TestModule4.csproj.CoreCompileInputs.cache
