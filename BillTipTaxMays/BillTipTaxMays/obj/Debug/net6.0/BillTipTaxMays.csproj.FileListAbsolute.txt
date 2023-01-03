@@ -1,0 +1,15 @@
+/Users/ajlj/Projects/BillTipTaxMays/BillTipTaxMays/bin/Debug/net6.0/BillTipTaxMays
+/Users/ajlj/Projects/BillTipTaxMays/BillTipTaxMays/bin/Debug/net6.0/BillTipTaxMays.deps.json
+/Users/ajlj/Projects/BillTipTaxMays/BillTipTaxMays/bin/Debug/net6.0/BillTipTaxMays.runtimeconfig.json
+/Users/ajlj/Projects/BillTipTaxMays/BillTipTaxMays/bin/Debug/net6.0/BillTipTaxMays.dll
+/Users/ajlj/Projects/BillTipTaxMays/BillTipTaxMays/bin/Debug/net6.0/BillTipTaxMays.pdb
+/Users/ajlj/Projects/BillTipTaxMays/BillTipTaxMays/obj/Debug/net6.0/BillTipTaxMays.csproj.AssemblyReference.cache
+/Users/ajlj/Projects/BillTipTaxMays/BillTipTaxMays/obj/Debug/net6.0/BillTipTaxMays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajlj/Projects/BillTipTaxMays/BillTipTaxMays/obj/Debug/net6.0/BillTipTaxMays.AssemblyInfoInputs.cache
+/Users/ajlj/Projects/BillTipTaxMays/BillTipTaxMays/obj/Debug/net6.0/BillTipTaxMays.AssemblyInfo.cs
+/Users/ajlj/Projects/BillTipTaxMays/BillTipTaxMays/obj/Debug/net6.0/BillTipTaxMays.csproj.CoreCompileInputs.cache
+/Users/ajlj/Projects/BillTipTaxMays/BillTipTaxMays/obj/Debug/net6.0/BillTipTaxMays.dll
+/Users/ajlj/Projects/BillTipTaxMays/BillTipTaxMays/obj/Debug/net6.0/refint/BillTipTaxMays.dll
+/Users/ajlj/Projects/BillTipTaxMays/BillTipTaxMays/obj/Debug/net6.0/BillTipTaxMays.pdb
+/Users/ajlj/Projects/BillTipTaxMays/BillTipTaxMays/obj/Debug/net6.0/BillTipTaxMays.genruntimeconfig.cache
+/Users/ajlj/Projects/BillTipTaxMays/BillTipTaxMays/obj/Debug/net6.0/ref/BillTipTaxMays.dll

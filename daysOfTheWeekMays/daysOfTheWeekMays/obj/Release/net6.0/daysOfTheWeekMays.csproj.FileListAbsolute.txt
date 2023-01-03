@@ -1,0 +1,15 @@
+/Users/ajlj/Projects/daysOfTheWeekMays/daysOfTheWeekMays/bin/Release/net6.0/daysOfTheWeekMays
+/Users/ajlj/Projects/daysOfTheWeekMays/daysOfTheWeekMays/bin/Release/net6.0/daysOfTheWeekMays.deps.json
+/Users/ajlj/Projects/daysOfTheWeekMays/daysOfTheWeekMays/bin/Release/net6.0/daysOfTheWeekMays.runtimeconfig.json
+/Users/ajlj/Projects/daysOfTheWeekMays/daysOfTheWeekMays/bin/Release/net6.0/daysOfTheWeekMays.dll
+/Users/ajlj/Projects/daysOfTheWeekMays/daysOfTheWeekMays/bin/Release/net6.0/daysOfTheWeekMays.pdb
+/Users/ajlj/Projects/daysOfTheWeekMays/daysOfTheWeekMays/obj/Release/net6.0/daysOfTheWeekMays.csproj.AssemblyReference.cache
+/Users/ajlj/Projects/daysOfTheWeekMays/daysOfTheWeekMays/obj/Release/net6.0/daysOfTheWeekMays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajlj/Projects/daysOfTheWeekMays/daysOfTheWeekMays/obj/Release/net6.0/daysOfTheWeekMays.AssemblyInfoInputs.cache
+/Users/ajlj/Projects/daysOfTheWeekMays/daysOfTheWeekMays/obj/Release/net6.0/daysOfTheWeekMays.AssemblyInfo.cs
+/Users/ajlj/Projects/daysOfTheWeekMays/daysOfTheWeekMays/obj/Release/net6.0/daysOfTheWeekMays.csproj.CoreCompileInputs.cache
+/Users/ajlj/Projects/daysOfTheWeekMays/daysOfTheWeekMays/obj/Release/net6.0/daysOfTheWeekMays.dll
+/Users/ajlj/Projects/daysOfTheWeekMays/daysOfTheWeekMays/obj/Release/net6.0/refint/daysOfTheWeekMays.dll
+/Users/ajlj/Projects/daysOfTheWeekMays/daysOfTheWeekMays/obj/Release/net6.0/daysOfTheWeekMays.pdb
+/Users/ajlj/Projects/daysOfTheWeekMays/daysOfTheWeekMays/obj/Release/net6.0/daysOfTheWeekMays.genruntimeconfig.cache
+/Users/ajlj/Projects/daysOfTheWeekMays/daysOfTheWeekMays/obj/Release/net6.0/ref/daysOfTheWeekMays.dll
