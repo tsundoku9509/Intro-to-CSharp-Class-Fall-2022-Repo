@@ -1,0 +1,15 @@
+/Users/ajlj/Projects/ReadWriteFile/ReadWriteFile/bin/Debug/net6.0/ReadWriteFile
+/Users/ajlj/Projects/ReadWriteFile/ReadWriteFile/bin/Debug/net6.0/ReadWriteFile.deps.json
+/Users/ajlj/Projects/ReadWriteFile/ReadWriteFile/bin/Debug/net6.0/ReadWriteFile.runtimeconfig.json
+/Users/ajlj/Projects/ReadWriteFile/ReadWriteFile/bin/Debug/net6.0/ReadWriteFile.dll
+/Users/ajlj/Projects/ReadWriteFile/ReadWriteFile/bin/Debug/net6.0/ReadWriteFile.pdb
+/Users/ajlj/Projects/ReadWriteFile/ReadWriteFile/obj/Debug/net6.0/ReadWriteFile.csproj.AssemblyReference.cache
+/Users/ajlj/Projects/ReadWriteFile/ReadWriteFile/obj/Debug/net6.0/ReadWriteFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajlj/Projects/ReadWriteFile/ReadWriteFile/obj/Debug/net6.0/ReadWriteFile.AssemblyInfoInputs.cache
+/Users/ajlj/Projects/ReadWriteFile/ReadWriteFile/obj/Debug/net6.0/ReadWriteFile.AssemblyInfo.cs
+/Users/ajlj/Projects/ReadWriteFile/ReadWriteFile/obj/Debug/net6.0/ReadWriteFile.csproj.CoreCompileInputs.cache
+/Users/ajlj/Projects/ReadWriteFile/ReadWriteFile/obj/Debug/net6.0/ReadWriteFile.dll
+/Users/ajlj/Projects/ReadWriteFile/ReadWriteFile/obj/Debug/net6.0/refint/ReadWriteFile.dll
+/Users/ajlj/Projects/ReadWriteFile/ReadWriteFile/obj/Debug/net6.0/ReadWriteFile.pdb
+/Users/ajlj/Projects/ReadWriteFile/ReadWriteFile/obj/Debug/net6.0/ReadWriteFile.genruntimeconfig.cache
+/Users/ajlj/Projects/ReadWriteFile/ReadWriteFile/obj/Debug/net6.0/ref/ReadWriteFile.dll

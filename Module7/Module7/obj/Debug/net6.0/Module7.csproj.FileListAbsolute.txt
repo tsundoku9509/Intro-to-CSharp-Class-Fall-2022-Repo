@@ -1,0 +1,15 @@
+/Users/ajlj/Projects/Module7/Module7/bin/Debug/net6.0/Module7
+/Users/ajlj/Projects/Module7/Module7/bin/Debug/net6.0/Module7.deps.json
+/Users/ajlj/Projects/Module7/Module7/bin/Debug/net6.0/Module7.runtimeconfig.json
+/Users/ajlj/Projects/Module7/Module7/bin/Debug/net6.0/Module7.dll
+/Users/ajlj/Projects/Module7/Module7/bin/Debug/net6.0/Module7.pdb
+/Users/ajlj/Projects/Module7/Module7/obj/Debug/net6.0/Module7.csproj.AssemblyReference.cache
+/Users/ajlj/Projects/Module7/Module7/obj/Debug/net6.0/Module7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajlj/Projects/Module7/Module7/obj/Debug/net6.0/Module7.AssemblyInfoInputs.cache
+/Users/ajlj/Projects/Module7/Module7/obj/Debug/net6.0/Module7.AssemblyInfo.cs
+/Users/ajlj/Projects/Module7/Module7/obj/Debug/net6.0/Module7.csproj.CoreCompileInputs.cache
+/Users/ajlj/Projects/Module7/Module7/obj/Debug/net6.0/Module7.dll
+/Users/ajlj/Projects/Module7/Module7/obj/Debug/net6.0/refint/Module7.dll
+/Users/ajlj/Projects/Module7/Module7/obj/Debug/net6.0/Module7.pdb
+/Users/ajlj/Projects/Module7/Module7/obj/Debug/net6.0/Module7.genruntimeconfig.cache
+/Users/ajlj/Projects/Module7/Module7/obj/Debug/net6.0/ref/Module7.dll
