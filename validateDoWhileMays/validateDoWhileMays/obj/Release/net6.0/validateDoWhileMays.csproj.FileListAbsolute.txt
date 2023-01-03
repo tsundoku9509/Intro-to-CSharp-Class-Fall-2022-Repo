@@ -1,0 +1,15 @@
+/Users/ajlj/Projects/validateDoWhileMays/validateDoWhileMays/bin/Release/net6.0/validateDoWhileMays
+/Users/ajlj/Projects/validateDoWhileMays/validateDoWhileMays/bin/Release/net6.0/validateDoWhileMays.deps.json
+/Users/ajlj/Projects/validateDoWhileMays/validateDoWhileMays/bin/Release/net6.0/validateDoWhileMays.runtimeconfig.json
+/Users/ajlj/Projects/validateDoWhileMays/validateDoWhileMays/bin/Release/net6.0/validateDoWhileMays.dll
+/Users/ajlj/Projects/validateDoWhileMays/validateDoWhileMays/bin/Release/net6.0/validateDoWhileMays.pdb
+/Users/ajlj/Projects/validateDoWhileMays/validateDoWhileMays/obj/Release/net6.0/validateDoWhileMays.csproj.AssemblyReference.cache
+/Users/ajlj/Projects/validateDoWhileMays/validateDoWhileMays/obj/Release/net6.0/validateDoWhileMays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajlj/Projects/validateDoWhileMays/validateDoWhileMays/obj/Release/net6.0/validateDoWhileMays.AssemblyInfoInputs.cache
+/Users/ajlj/Projects/validateDoWhileMays/validateDoWhileMays/obj/Release/net6.0/validateDoWhileMays.AssemblyInfo.cs
+/Users/ajlj/Projects/validateDoWhileMays/validateDoWhileMays/obj/Release/net6.0/validateDoWhileMays.csproj.CoreCompileInputs.cache
+/Users/ajlj/Projects/validateDoWhileMays/validateDoWhileMays/obj/Release/net6.0/validateDoWhileMays.dll
+/Users/ajlj/Projects/validateDoWhileMays/validateDoWhileMays/obj/Release/net6.0/refint/validateDoWhileMays.dll
+/Users/ajlj/Projects/validateDoWhileMays/validateDoWhileMays/obj/Release/net6.0/validateDoWhileMays.pdb
+/Users/ajlj/Projects/validateDoWhileMays/validateDoWhileMays/obj/Release/net6.0/validateDoWhileMays.genruntimeconfig.cache
+/Users/ajlj/Projects/validateDoWhileMays/validateDoWhileMays/obj/Release/net6.0/ref/validateDoWhileMays.dll
