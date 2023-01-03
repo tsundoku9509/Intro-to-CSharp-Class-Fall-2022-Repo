@@ -1,0 +1,15 @@
+/Users/ajlj/Projects/un-birthday_party/un-birthday_party/obj/Release/net6.0/un-birthday_party.csproj.AssemblyReference.cache
+/Users/ajlj/Projects/un-birthday_party/un-birthday_party/obj/Release/net6.0/un-birthday_party.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajlj/Projects/un-birthday_party/un-birthday_party/obj/Release/net6.0/un-birthday_party.AssemblyInfoInputs.cache
+/Users/ajlj/Projects/un-birthday_party/un-birthday_party/obj/Release/net6.0/un-birthday_party.AssemblyInfo.cs
+/Users/ajlj/Projects/un-birthday_party/un-birthday_party/obj/Release/net6.0/un-birthday_party.csproj.CoreCompileInputs.cache
+/Users/ajlj/Projects/un-birthday_party/un-birthday_party/bin/Release/net6.0/un-birthday_party
+/Users/ajlj/Projects/un-birthday_party/un-birthday_party/bin/Release/net6.0/un-birthday_party.deps.json
+/Users/ajlj/Projects/un-birthday_party/un-birthday_party/bin/Release/net6.0/un-birthday_party.runtimeconfig.json
+/Users/ajlj/Projects/un-birthday_party/un-birthday_party/bin/Release/net6.0/un-birthday_party.dll
+/Users/ajlj/Projects/un-birthday_party/un-birthday_party/bin/Release/net6.0/un-birthday_party.pdb
+/Users/ajlj/Projects/un-birthday_party/un-birthday_party/obj/Release/net6.0/un-birthday_party.dll
+/Users/ajlj/Projects/un-birthday_party/un-birthday_party/obj/Release/net6.0/refint/un-birthday_party.dll
+/Users/ajlj/Projects/un-birthday_party/un-birthday_party/obj/Release/net6.0/un-birthday_party.pdb
+/Users/ajlj/Projects/un-birthday_party/un-birthday_party/obj/Release/net6.0/un-birthday_party.genruntimeconfig.cache
+/Users/ajlj/Projects/un-birthday_party/un-birthday_party/obj/Release/net6.0/ref/un-birthday_party.dll

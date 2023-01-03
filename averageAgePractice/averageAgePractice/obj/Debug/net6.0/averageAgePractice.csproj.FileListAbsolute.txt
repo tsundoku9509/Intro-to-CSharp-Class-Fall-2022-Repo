@@ -1,0 +1,15 @@
+/Users/ajlj/Projects/averageAgePractice/averageAgePractice/obj/Debug/net6.0/averageAgePractice.csproj.AssemblyReference.cache
+/Users/ajlj/Projects/averageAgePractice/averageAgePractice/obj/Debug/net6.0/averageAgePractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajlj/Projects/averageAgePractice/averageAgePractice/obj/Debug/net6.0/averageAgePractice.AssemblyInfoInputs.cache
+/Users/ajlj/Projects/averageAgePractice/averageAgePractice/obj/Debug/net6.0/averageAgePractice.AssemblyInfo.cs
+/Users/ajlj/Projects/averageAgePractice/averageAgePractice/obj/Debug/net6.0/averageAgePractice.csproj.CoreCompileInputs.cache
+/Users/ajlj/Projects/averageAgePractice/averageAgePractice/bin/Debug/net6.0/averageAgePractice
+/Users/ajlj/Projects/averageAgePractice/averageAgePractice/bin/Debug/net6.0/averageAgePractice.deps.json
+/Users/ajlj/Projects/averageAgePractice/averageAgePractice/bin/Debug/net6.0/averageAgePractice.runtimeconfig.json
+/Users/ajlj/Projects/averageAgePractice/averageAgePractice/bin/Debug/net6.0/averageAgePractice.dll
+/Users/ajlj/Projects/averageAgePractice/averageAgePractice/bin/Debug/net6.0/averageAgePractice.pdb
+/Users/ajlj/Projects/averageAgePractice/averageAgePractice/obj/Debug/net6.0/averageAgePractice.dll
+/Users/ajlj/Projects/averageAgePractice/averageAgePractice/obj/Debug/net6.0/refint/averageAgePractice.dll
+/Users/ajlj/Projects/averageAgePractice/averageAgePractice/obj/Debug/net6.0/averageAgePractice.pdb
+/Users/ajlj/Projects/averageAgePractice/averageAgePractice/obj/Debug/net6.0/averageAgePractice.genruntimeconfig.cache
+/Users/ajlj/Projects/averageAgePractice/averageAgePractice/obj/Debug/net6.0/ref/averageAgePractice.dll
