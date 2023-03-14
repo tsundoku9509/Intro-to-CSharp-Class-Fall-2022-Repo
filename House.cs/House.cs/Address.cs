@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace Module9
 {
     public class Address
@@ -6,10 +7,10 @@ namespace Module9
 
         // fields
         private int _houseNumber;
-        private string _streetName;
-        private string _city;
-        private string _state;
-        private int _zip;
+        private string _streetName = "";
+        private string _city = "";
+        private string _state = "";
+        private int _zip = 0;
 
         // Constructors
         public Address() { // default no-arg
@@ -36,6 +37,12 @@ namespace Module9
         public string City { get => _city; set => _city = value; }
         public string State { get => _state; set => _state = value; }
         public int Zip { get => _zip; set => _zip = value; }
+
+        public override string ToString()
+        {
+            return HouseNumber + " " + StreetName + ", " + City + ", " + State + " " + Zip;
+
+        }
 
     }
 

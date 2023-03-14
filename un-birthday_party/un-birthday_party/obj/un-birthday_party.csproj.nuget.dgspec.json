@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ajlj/Projects/un-birthday_party/un-birthday_party/un-birthday_party.csproj": {}
+    "/Users/ajlj/Documents/GitHub/Intro-to-CSharp-Class-Fall-2022-Repo/Projects/un-birthday_party/un-birthday_party/un-birthday_party.csproj": {}
   },
   "projects": {
-    "/Users/ajlj/Projects/un-birthday_party/un-birthday_party/un-birthday_party.csproj": {
+    "/Users/ajlj/Documents/GitHub/Intro-to-CSharp-Class-Fall-2022-Repo/Projects/un-birthday_party/un-birthday_party/un-birthday_party.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ajlj/Projects/un-birthday_party/un-birthday_party/un-birthday_party.csproj",
+        "projectUniqueName": "/Users/ajlj/Documents/GitHub/Intro-to-CSharp-Class-Fall-2022-Repo/Projects/un-birthday_party/un-birthday_party/un-birthday_party.csproj",
         "projectName": "un-birthday_party",
-        "projectPath": "/Users/ajlj/Projects/un-birthday_party/un-birthday_party/un-birthday_party.csproj",
+        "projectPath": "/Users/ajlj/Documents/GitHub/Intro-to-CSharp-Class-Fall-2022-Repo/Projects/un-birthday_party/un-birthday_party/un-birthday_party.csproj",
         "packagesPath": "/Users/ajlj/.nuget/packages/",
-        "outputPath": "/Users/ajlj/Projects/un-birthday_party/un-birthday_party/obj/",
+        "outputPath": "/Users/ajlj/Documents/GitHub/Intro-to-CSharp-Class-Fall-2022-Repo/Projects/un-birthday_party/un-birthday_party/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ajlj/.nuget/NuGet/NuGet.Config"
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.406/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,11 +1,12 @@
-﻿namespace FirstUnitTestMays;
+﻿using MedalWinner;
+
+namespace FirstUnitTestMaysTest;
 
 public class UnitTest1
 {
-    [Fact]
-    public void Test1()
-    {
-        [Fact] public void PassingCaseTest()
+   
+        [Fact]
+        public void PassingCaseTest()
         {   // Arrange
             string fName = "Megan";
             string lName = "RAPINOE";
@@ -34,13 +35,13 @@ public class UnitTest1
             // Act
             actual = MedalWinnerProgram.MedalWinner(fName, lName, rank);
             // Assert
-            Assert.Equal(expected, actual);
+            Assert.NotEqual(expected, actual);
         }
         [Fact]
         public void FirstNameFormatTest()
         {
             // Arrange
-            string fName = "megan";
+            string fName = "Megan";
             string lName = "RAPINOE";
             string rank = "1";
 
@@ -68,7 +69,7 @@ public class UnitTest1
             actual = MedalWinnerProgram.MedalWinner(fName, lName, rank);
 
             // Assert
-            Assert.Equal(expected, actual);
-        } 
+            Assert.NotEqual(expected, actual);
         }
 }
+

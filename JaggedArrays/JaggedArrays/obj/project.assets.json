@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ajlj/Projects/JaggedArrays/JaggedArrays/JaggedArrays.csproj",
+      "projectUniqueName": "/Users/ajlj/Documents/GitHub/Intro-to-CSharp-Class-Fall-2022-Repo/Projects/JaggedArrays/JaggedArrays/JaggedArrays.csproj",
       "projectName": "JaggedArrays",
-      "projectPath": "/Users/ajlj/Projects/JaggedArrays/JaggedArrays/JaggedArrays.csproj",
+      "projectPath": "/Users/ajlj/Documents/GitHub/Intro-to-CSharp-Class-Fall-2022-Repo/Projects/JaggedArrays/JaggedArrays/JaggedArrays.csproj",
       "packagesPath": "/Users/ajlj/.nuget/packages/",
-      "outputPath": "/Users/ajlj/Projects/JaggedArrays/JaggedArrays/obj/",
+      "outputPath": "/Users/ajlj/Documents/GitHub/Intro-to-CSharp-Class-Fall-2022-Repo/Projects/JaggedArrays/JaggedArrays/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ajlj/.nuget/NuGet/NuGet.Config"

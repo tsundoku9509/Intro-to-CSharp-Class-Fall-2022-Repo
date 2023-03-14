@@ -4,9 +4,10 @@
  * Name: daysOfTheWeekMays
  * Author: Austin Mays
  * Created: 09/21/2022
+ * Modified 01/26/2023
  * Course: CIS 169 - C#
- * Version: 1.0
- * OS: macOS Big Sur
+ * Version: 1.1
+ * OS: macOS Ventura
  * IDE: Visual Studio 2022 Community
  * Copyright: This is my own original work based on specifications issued by our instructor.
  * Description: This program overall handles:

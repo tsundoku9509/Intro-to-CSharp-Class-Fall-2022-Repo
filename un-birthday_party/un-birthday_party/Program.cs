@@ -51,7 +51,7 @@ namespace un_birthday_party
                 Console.WriteLine("Error in output...");
                 Console.WriteLine(y.Message);
             }
-            cupcakePerPerson = numberPeople / numberCupcakes;
+            cupcakePerPerson = numberCupcakes / numberPeople;
             Console.WriteLine("My Un-Birthday Guests, Enjoy!" + " Number of cupcakes per person: " + cupcakePerPerson);
             Console.ReadLine();
 

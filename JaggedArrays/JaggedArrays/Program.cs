@@ -1,12 +1,13 @@
 ﻿using System;
 
 /**********************
- *Name: jaggedArraysMays
+ *Name: jaggedArrays
  * Author: Austin Mays
  * Created: 10/05/2022
+ * Modified: 01/26/2023
  * Course: CIS 169 - C#
- * Version: 1.0
- * OS: macOS Big Sur
+ * Version: 1.1
+ * OS: macOS Ventura
  * IDE: Visual Studio 2022 Community
  * Copyright: This is my own original work based on specifications issued by our instructor.
  * Description: This program overall handles:
@@ -64,7 +65,7 @@ namespace JaggedArrays
                 for (int j = 0; j < mileageTable[i].Length; j++)
                 {
                     Console.Write(mileageTable[i][j] + "\t");
-                    if (i == 7)
+                    if (i == 9)
                     {
                         Min(mileageTable[6]);
                         Console.ReadKey();

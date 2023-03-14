@@ -4,9 +4,10 @@
  *Name: MethodOverload
  * Author: Austin Mays
  * Created: 09/14/2022
+ * Modified: 01/27/2023
  * Course: CIS 169 - C#
- * Version: 1.0
- * OS: macOS Big Sur
+ * Version: 1.1
+ * OS: macOS Ventura
  * IDE: Visual Studio 2022 Community
  * Copyright: This is my own original work based on specifications issued by our instructor.
  * Description: This program overall handles:
@@ -29,7 +30,7 @@ namespace MethodsOverload
             accidents = 5.25F;
             injury_index = 3.48F;
             avg_ratio = Convert.ToDecimal(traffic + accidents + injury_index / 3);
-            Console.WriteLine(avg_ratio);
+            Console.WriteLine("{0:N2}", avg_ratio);
             return avg_ratio;
         }
         private static double Average(decimal pay, decimal bonus, decimal yearly, double pay_ratio)
@@ -38,7 +39,7 @@ namespace MethodsOverload
             bonus = 1.25M;
             yearly = 35000M;
             pay_ratio = Convert.ToDouble(pay + bonus + yearly / 3);
-            Console.WriteLine(pay_ratio);
+            Console.WriteLine("{0:N2}", pay_ratio);
             return pay_ratio;
 
         }
@@ -48,7 +49,7 @@ namespace MethodsOverload
             drinks = 15;
             chip_bags = 20;
             per_person = Convert.ToDecimal(pizza_slices + drinks + chip_bags / 3);
-            Console.WriteLine(per_person);
+            Console.WriteLine("{0:N2}", per_person);
             return per_person;
 
         }
@@ -58,7 +59,7 @@ namespace MethodsOverload
             rotation = 3.9201;
             counter_rotation = 4.234;
             num_computations = Convert.ToInt32(calculation + rotation + counter_rotation / 3);
-            Console.WriteLine(num_computations);
+            Console.WriteLine("{0:N2}", num_computations);
             return num_computations;
         }
         public static void Main(string[] args)
@@ -89,13 +90,13 @@ namespace MethodsOverload
             int fourth;
 
             first = Average(a, b, c, dec_avg);
-            Console.WriteLine("Decimal Value: " + first);
+            Console.WriteLine("Decimal Value: {0:N2}", first);
             second = Average(d, e, f, doub_age);
-            Console.WriteLine("Double Value: " + second);
+            Console.WriteLine("Double Value: {0:N2}", second);
             third = Average(g, h, i, dec_avg_02);
-            Console.WriteLine("Decimal Value: " + third);
+            Console.WriteLine("Decimal Value: {0:N2}", third);
             fourth = Average(j, k, l, int_avg);
-            Console.WriteLine("Int 32bit Value: " + fourth);
+            Console.WriteLine("Int 32bit Value: {0:N2}", fourth);
             Console.ReadLine();
 
 

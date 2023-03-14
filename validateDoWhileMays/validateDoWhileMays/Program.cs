@@ -4,6 +4,7 @@
  *Name: validateDoWhileMays
  * Author: Austin Mays
  * Created: 09/28/2022
+ * Modified: 03/13/2023
  * Course: CIS 169 - C#
  * Version: 1.0
  * OS: macOS Big Sur
@@ -24,17 +25,31 @@ namespace Validate
     {
         public static void Main(String[] args)
         {
-            int num;
+            int num = 0;
             int num_div = 5;
+            List<int> nums = new List<int>() { 10, 20, 30, 40, 50 };
             int num_final;
+            
 
 
 
             do
             {
-                Console.WriteLine("Enter a number incremeant of 10 from 0 to 50! ");
+                Console.WriteLine("Enter a number increment of 10 from 0 to 50 without zero! ");
                 num = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Great Job!");
+                bool rightNum = nums.Contains(num);
+                if (num <50 || rightNum == true)
+                {
+                   Console.WriteLine("Great Job!");
+                    num++;
+                    Console.ReadLine();
+                }
+                else if(num > 50 || rightNum == false)
+                {
+                    Console.WriteLine("Error occurred, try again!");
+                    num = 0;
+                    Console.ReadLine();
+                }
             } while (num < 50);
 
             num_final = num / num_div;
