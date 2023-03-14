@@ -1,4 +1,23 @@
-﻿using System;
+﻿/**********************
+ * Name: BillTipTaxMays
+ * Author: Austin Mays
+ * Created: 2022
+ * Modified 01/26/2023
+ * Course: CIS 169 - C#
+ * Version: 1.1
+ * OS: macOS Ventura
+ * IDE: Visual Studio 2022 Community
+ * Copyright: This is my own original work based on specifications issued by our instructor.
+ * Description: This program overall handles:
+ *
+ Input: None.
+ *
+ Output: String telling each customer what amount is due based on the split bill and tax.
+ * Academic Honesty: I attest that this is my original work. I have not used unauthorized source code, either modified or
+ * unmodified. I have not given other fellow students access to my program.
+**********************/
+
+using System;
 
 namespace BillTipTax
 {
@@ -23,7 +42,18 @@ namespace BillTipTax
             double TAX_TWO = SUBTOTAL_TWO * TAXRATE;
             double TIP_TWO = SUBTOTAL_TWO * TIP_PERCENT;
             double TOTAL_TWO = SUBTOTAL_TWO + TAX_TWO + TIP_TWO;
+            double TOTAL_ADD = TOTAL_ONE + TOTAL_TWO;
+            int SPLITTING = 2;
+            double SPLIT = TOTAL_ADD / SPLITTING;
 
+            Console.WriteLine("First Total: " + "{0:N2}", TOTAL_ONE);
+            Console.WriteLine("Press Enter for Second Total: ");
+            Console.ReadLine();
+            Console.WriteLine("Second Total: " + "{0:N2}", TOTAL_TWO);
+            Console.WriteLine("Press Enter for Split Cost");
+            Console.ReadLine();
+            Console.WriteLine("Total Due for Each: " + "{0:N2}", SPLIT);
+            Console.ReadLine();
         }
     }
 }
